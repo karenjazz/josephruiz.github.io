@@ -1,0 +1,4 @@
+ {
+    "cmd": ["pandoc", "-S", "-s", "-N", "--bibliography=recursos/referencias.bib", "-o", "grupo0-temadelgrupo.pdf", "cabecera.md", "0-introduccion.md", "1-estrategia.md", "2-alcance.md", "3-estructura.md", "4-esqueleto.md", "5-superficie.md", "6-conclusiones.md"],
+    "selector": "text.html.markdown"
+ }
