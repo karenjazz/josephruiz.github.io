@@ -14,3 +14,5 @@ Este repositorio es una plantilla para elaborar el proyecto web de la asignatura
     + debatid en el pull request, y seguid haciendo cambios y commits en el branch, hasta que estéis satisfechos con el contenido
     + haced merge del pull request (preferiblemente, decidid que sea sólo el usuario administrador quien haga los merges). En este momento el contenido del subapartado 1.2.3 está incluido en el branch principal o master de vuestro proyecto
     + eliminad el branch de trabajo "subapdo-1.2.3"
+
+## Descripción de archivos contenidos en esta plantilla
