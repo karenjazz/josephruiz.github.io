@@ -1,4 +1,4 @@
-# Plantilla para el proyecto web
+# Plantilla para el proyecto web cambio de título
 
 Este repositorio es una plantilla para elaborar el proyecto web de la asignatura Proyectos para la web. 
 
@@ -16,3 +16,4 @@ Este repositorio es una plantilla para elaborar el proyecto web de la asignatura
     + eliminad el branch de trabajo "subapdo-1.2.3"
 
 ## Descripción de archivos contenidos en esta plantilla
+
