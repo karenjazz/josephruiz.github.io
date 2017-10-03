@@ -1,10 +1,13 @@
-# Introducción
+# Título del proyecto
 
-## Subapartado 1
+Proyecto en equipo para la asignatura [Proyectos para la web](https://github.com/DeustoPWEB/pweb2017/issues), curso académico 2017-2018
 
-Añado contenido en el subapartado 0.1
+Autores: 
+- [Autor1](link)
+- [Autor2](link)
 
-## Subapartado 2
+## Introducción
 
-Estoy en el branch creado para editar precisamente este apartado.
+### Subapartado 1
 
+### Subapartado 2

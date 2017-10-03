@@ -1,2 +1,2 @@
-# Plano de estructura
+## Plano de estructura
 

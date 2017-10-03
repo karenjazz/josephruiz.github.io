@@ -1,2 +1,2 @@
-# Plano de estrategia
+## Plano de estrategia
 
