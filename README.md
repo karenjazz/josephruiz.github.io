@@ -26,3 +26,35 @@ Recordad que este trabajo, aunque lo realicemos mediante texto plano y estemos t
 No caigáis en la tentación de trabajar "fuera" de Sublime/GitHub (por ejemplo, en Word o Google Docs) y luego, de vez en cuando, volcar el trabajo realizado en algún otro sitio en vuestro repositorio. El proceso de trabajo con GitHub es parte del aprendizaje de esta asignatura.
 
 Por supuesto, si tenéis cualquier duda a lo largo de vuestra elaboración del proyecto con GitHub, ya sea durante alguna reunión del equipo o cuando estéis trabajando individualmente, **por favor comunicadlo** a través de un issue bien en vuestro repositorio de equipo o incluso en el [repositorio de la asignatura](https://github.com/DeustoPWEB/pweb2017/issues) (si es alguna cuestión más general), mencionándome con una @ (@mberasategi, para que pueda recibir una notificación y atender vuestra consulta).
+
+## Cómo empezar a trabajar
+
+Primera tarea: actualizar vuestra plantilla, porque he añadido estas instrucciones acerca de cómo arrancar. Para esto, veréis que he creado un pull request en vuestro repositorio de grupo. Este pull request lo que hace es solicitar que _traigáis_ las actualizaciones del _repositorio plantilla original_ ([plantilla-proyecto-web](http://https://github.com/DeustoPWEB/plantilla-proyecto-web)) a vuestra copia. Lo primero es hacer merge de ese pull request, haciendo clic en el botón **Merge pull request** (basta con hacerlo una sola vez, así que lo puede hacer el admin de vuestro grupo).
+
+En segundo lugar, tenéis que hacer que esto deje de ser una plantilla y empiece a ser vuestro proyecto. Para esto (tarea de una sola vez también, así que puede hacerla el usuario admin cuando estéis todos juntos para que lo veáis y os podáis ayudar en caso de que surjan problemas),
+
+1. editad la descripción del repositorio. Clic en el botón **Edit** en la parte superior derecha de vuestro repositorio, al lado de la descripción que de momento dice "Plantilla para elaborar el proyecto web"; introducid ahí la descripción de vuestro proyecto ("Sitio web para revista tal", o "Web de medio de comunicación cual"). Si en un momento dado hacéis un sitio web con vuestro repo utilizando GitHub Pages (no es obligatorio), podéis también introducir la URL de ese sitio web aquí
+
+  ![editar desc](https://screenshots.firefox.com/eHzuJsxycoD3iNsC/github.com)
+
+2. este archivo README será como el índice a los diferentes capítulos de vuestro proyecto, y todas estas explicaciones para empezar a trabajar las podéis eliminar (quedarán en el [_repositorio plantilla original_](http://https://github.com/DeustoPWEB/plantilla-proyecto-web) para futuras referencias). Hay que, por tanto, añadir un índice por un lado, y eliminar el contenido que ya existe por el otro
+    - si queréis guardaros una copia de estas instrucciones en vuestro repositorio, copiad todo el texto de este documento **hasta la línea de guiones un poco más abajo** y pegadlo en un documento nuevo (podéis llamarlo `instrucciones.md` por ejemplo, o como os parezca). Una vez guardéis ese documento, tendréis que añadirlo al commit en GitHub Desktop para que se sincronice, y ya podéis eliminarlo de este documento (si necesitáis ayuda, issue, como siempre). Si no queréis guardaros copia, simplemente eliminad todo el texto que hay en este documento hasta la línea de guiones
+    - para añadir el índice, quedaros solamente con el contenido que hay debajo de la línea de guiones (la línea de guiones en sí eliminadla también). Los diferentes capítulos ya están enlazados, así que solo tenéis que modificar el título y la descripción. Luego, según vayáis añadiendo subapartados a vuestros capítulos, podréis ir añadiéndolos y enlazándolos desde aquí
+
+
+--------------------
+
+# Título de vuestro proyecto web
+
+Descripción...
+
+## Índice / Tabla de contenidos
+
+0. [Introducción](0-introduccion.md)
+1. [Plano de Estrategia](1-estrategia.md)
+2. [Plano de Alcance](2-alcance.md)
+3. [Plano de Estructura](3-estructura.md)
+4. [Plano de Esqueleto](4-esqueleto.md)
+5. [Plano de Superficie](5-superficie.md)
+6. [Conclusión](6-conclusion.md)
+7. [Referencias](6-conclusion.md#referencias)
