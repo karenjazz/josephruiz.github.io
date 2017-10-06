@@ -35,7 +35,7 @@ En segundo lugar, tenéis que hacer que esto deje de ser una plantilla y empiece
 
 1. editad la descripción del repositorio. Clic en el botón **Edit** en la parte superior derecha de vuestro repositorio, al lado de la descripción que de momento dice "Plantilla para elaborar el proyecto web"; introducid ahí la descripción de vuestro proyecto ("Sitio web para revista tal", o "Web de medio de comunicación cual"). Si en un momento dado hacéis un sitio web con vuestro repo utilizando GitHub Pages (no es obligatorio), podéis también introducir la URL de ese sitio web aquí
 
-  ![editar desc](https://screenshots.firefox.com/eHzuJsxycoD3iNsC/github.com)
+  ![editar desc](recursos/editar-desc.png)
 
 2. este archivo README será como el índice a los diferentes capítulos de vuestro proyecto, y todas estas explicaciones para empezar a trabajar las podéis eliminar (quedarán en el [_repositorio plantilla original_](http://https://github.com/DeustoPWEB/plantilla-proyecto-web) para futuras referencias). Hay que, por tanto, añadir un índice por un lado, y eliminar el contenido que ya existe por el otro
     - si queréis guardaros una copia de estas instrucciones en vuestro repositorio, copiad todo el texto de este documento **hasta la línea de guiones un poco más abajo** y pegadlo en un documento nuevo (podéis llamarlo `instrucciones.md` por ejemplo, o como os parezca). Una vez guardéis ese documento, tendréis que añadirlo al commit en GitHub Desktop para que se sincronice, y ya podéis eliminarlo de este documento (si necesitáis ayuda, issue, como siempre). Si no queréis guardaros copia, simplemente eliminad todo el texto que hay en este documento hasta la línea de guiones
