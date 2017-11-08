@@ -1,6 +1,6 @@
 # Plantilla para el proyecto web
 
-Este repositorio es una plantilla para elaborar el proyecto web de la asignatura Proyectos para la web. 
+Este repositorio es una plantilla para elaborar el proyecto web de la asignatura Proyectos para la web. Presentado como libro [mediante GitBook](https://www.gitbook.com/book/deustopweb/plantilla-libro-pweb/).
 
 ## Recomendaciones para el flujo de trabajo
 
