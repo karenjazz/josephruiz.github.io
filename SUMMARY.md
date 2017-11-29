@@ -7,3 +7,4 @@
 * [Plano de Esqueleto](4-esqueleto.md)
 * [Plano de Superficie](5-superficie.md)
 * [Conclusión](6-conclusion.md)
+* [Referencias](6-conclusion.md#referencias)
