@@ -1,4 +1,14 @@
-# Plantilla para el proyecto web
+## Índice / Tabla de contenidos
+
+0. [Introducción](0-introduccion.md)
+1. [Plano de Estrategia](1-estrategia.md)
+2. [Plano de Alcance](2-alcance.md)
+3. [Plano de Estructura](3-estructura.md)
+4. [Plano de Esqueleto](4-esqueleto.md)
+5. [Plano de Superficie](5-superficie.md)
+6. [Conclusión](6-conclusion.md)
+7. [Referencias](6-conclusion.md#referencias)
+# PAGINA
 
 Este repositorio es una plantilla para elaborar el proyecto web de la asignatura Proyectos para la web. Presentado como libro [mediante GitBook](https://www.gitbook.com/book/deustopweb/plantilla-libro-pweb/).
 
@@ -48,13 +58,4 @@ En segundo lugar, tenéis que hacer que esto deje de ser una plantilla y empiece
 
 Descripción...
 
-## Índice / Tabla de contenidos
 
-0. [Introducción](0-introduccion.md)
-1. [Plano de Estrategia](1-estrategia.md)
-2. [Plano de Alcance](2-alcance.md)
-3. [Plano de Estructura](3-estructura.md)
-4. [Plano de Esqueleto](4-esqueleto.md)
-5. [Plano de Superficie](5-superficie.md)
-6. [Conclusión](6-conclusion.md)
-7. [Referencias](6-conclusion.md#referencias)
