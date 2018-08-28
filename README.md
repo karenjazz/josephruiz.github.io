@@ -1,4 +1,4 @@
-## Índice / Tabla de contenidos
+## DESARROLLO SEMANAL
 
 1. [SEMANA 1](0-introduccion.md)
 2. [SEMANA 2](1-estrategia.md)
