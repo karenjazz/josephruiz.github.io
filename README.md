@@ -16,9 +16,11 @@
 14. [SEAMANA 14](14-SEMANA 14.md)
 15. [CONCLUSION](15-CONCLUSION 15.md)
 16. [Referencias](6-J.md#referencias)
-# PAGINA
+# PÁGINA  DEL GRUPO 11 
+# DESARROLLANDO 
 
-Este repositorio es una plantilla para elaborar el proyecto web de la asignatura Proyectos para la web. Presentado como libro [mediante GitBook](https://www.gitbook.com/book/deustopweb/plantilla-libro-pweb/).
+
+
 
 ## Recomendaciones para el flujo de trabajo
 
