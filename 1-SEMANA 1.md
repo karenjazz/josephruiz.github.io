@@ -5,7 +5,7 @@
 
 # El mal del Parkinson
 ##  ¿Qué es el mal del parkinson?
-    El mal de parkinson  es una enfermedad  con un proceso neurodegenerativa sistémico crónico el cual ocasiona diferentes sintomas de acuerdo al avance de la enfermedad.
+El mal de parkinson  es una enfermedad  con un proceso neurodegenerativa sistémico crónico el cual ocasiona diferentes sintomas de acuerdo al avance de la enfermedad.
 ## Causas y factores  de las enfermedad
 Muchos de los síntomas se deben a la pérdida de neuronas que producen un mensajero químico llamado «dopamina». Cuando los niveles de dopamina disminuyen, la actividad cerebral se vuelve anormal y se producen alteraciones en el desarroollo de las actividades cerebrales. Se desconocen la causas exactas  de la enfermedad de Parkinson, pero varios factores parecen intervenir.
 ### Causas
