@@ -1,2 +1,0 @@
-## El ESTADO DEL ARTE
-
