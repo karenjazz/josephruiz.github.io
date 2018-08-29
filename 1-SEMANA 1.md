@@ -85,17 +85,27 @@ Muchos de los síntomas se deben a la pérdida de neuronas que producen un mensa
    - Ismael es un empresario deportivo diagnosticado con Parkinson a los 36 años. Al principio le dijeron que era estrés, pero con la        evolución de la enfermedad fueron aumentando las medicinas. Le hablaron acerca del DBS, lo operaron y pudo volver a vivir. Tres          meses después de su cirugía se fue al mundial de fútbol en Brasil y se sentía como en una juguetería.
    
 ## Bbliografía
--Dra. Beatriz de la Casa Fages. (2018). Guía informativa de la enfermedad de parkinson. parkinson Federación española, 1, 40.
--María del Carmen. (julio -2009). Diágnostico diferencial del parkinson. medigraphic, 7, 7.
--Fernández Garnica. (2009). Guía de buena práctica clínica de geriatria. España: GlaxoSmithKline.
-E. Tolosa Sarro. (2012). 173. En Enfermedad de parkinson y otros transtornos de movimiento(13). España: Elsevier.INC.
--Dra. Beatriz de la Casa Fages. (2018). Guía informativa de la enfermedad de parkinson. parkinson Federación española, 1, 40.
--Dr. Fabián César Piedimonte. (2018). Historia de pacientes con parkinson. 19/08/2018, de parkinson y yo Sitio web: http://terapiaparkinson.com/comunidad/
--Diego Santos García, neurólogo del Complejo Hospitalario Universitario de Ferrol (CHUF, Ferrol, A Coruña). (2017). Tratamientos Parkinson. 19/08/2018, de Unidos contra el parkinson Sitio web: https://portal.unidoscontraelparkinson.com/tratamientos-parkinson/1630-dbs-parkinson-cerebral.html
--Laura Sánchez . (2000). Cómo mejorar la calidad de vida del enfermo. 19/08/2018, de Diario Femenino Sitio web: https://www.diariofemenino.com/salud/calidad-de-vida/articulos/parkinson-mejorar-calidad-vida-enfermo/
--Verónica Villa Psicóloga. Asociación Catalana de Enfermos de Parkinson (Madrid). (2005). Mi Vida con la Enfermedad de Parkinson. 19/08/2018, de Just in Time S.L Sitio web: http://parkinsoncantabria.com/documentos/mi_vida_con_parkinson.pdf
-Office of Communications and Public Liaison, National Institute of Neurological Disorders and Stroke & National Institutes of Health. (2016). Enfermedad de Parkinson: Esperanza en la investigación. diciembre 20, 2016, de National Institute of Neurological Disorders and stroke Sitio web: https://espanol.ninds.nih.gov/trastornos/parkinson_disease_spanish.htm
--Varios autores.. (2007). Enfermedad de Parkinson. En Tratado de geriatría para residentes(p.11). España: Sociedad española de geriatría y gerontología.
+  -Dra. Beatriz de la Casa Fages. (2018). Guía informativa de la enfermedad de parkinson. parkinson Federación española, 1, 40.
+
+  -María del Carmen. (julio -2009). Diágnostico diferencial del parkinson. medigraphic, 7, 7.
+
+  -Fernández Garnica. (2009). Guía de buena práctica clínica de geriatria. España: GlaxoSmithKline.
+
+  -E. Tolosa Sarro. (2012). 173. En Enfermedad de parkinson y otros transtornos de movimiento(13). España: Elsevier.INC.
+
+  -Dra. Beatriz de la Casa Fages. (2018). Guía informativa de la enfermedad de parkinson. parkinson Federación española, 1, 40.
+   
+  -Dr. Fabián César Piedimonte. (2018). Historia de pacientes con parkinson. 19/08/2018, de parkinson 
+  
+  -Diego Santos García, neurólogo del Complejo Hospitalario Universitario de Ferrol (CHUF, Ferrol, A Coruña). (2017). Tratamientos          Parkinson. 19/08/2018, de Unidos contra el parkinson 
+  
+  -Laura Sánchez . (2000). Cómo mejorar la calidad de vida del enfermo. 19/08/2018, de Diario Femenino.
+  
+  -Verónica Villa Psicóloga. Asociación Catalana de Enfermos de Parkinson (Madrid). (2005). Mi Vida con la Enfermedad de Parkinson.        19/08/2018, de Just in Time S.L.
+  
+  -Office of Communications and Public Liaison, National Institute of Neurological Disorders and Stroke & National Institutes of Health.    (2016). Enfermedad de Parkinson: Esperanza en la investigación. diciembre 20, 2016, de National Institute of Neurological Disorders      and stroke Sitio web: 
+  
+  -Varios autores.. (2007). Enfermedad de Parkinson. En Tratado de geriatría para residentes(p.11). España: Sociedad española de            geriatría y gerontología.
 
     
 
