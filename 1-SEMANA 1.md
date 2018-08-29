@@ -8,12 +8,12 @@
 El mal de parkinson  es una enfermedad  con un proceso neurodegenerativa sistémico crónico el cual ocasiona diferentes sintomas de acuerdo al avance de la enfermedad.
 ## Causas y factores  de las enfermedad
 Muchos de los síntomas se deben a la pérdida de neuronas que producen un mensajero químico llamado «dopamina». Cuando los niveles de dopamina disminuyen, la actividad cerebral se vuelve anormal y se producen alteraciones en el desarroollo de las actividades cerebrales. Se desconocen la causas exactas  de la enfermedad de Parkinson, pero varios factores parecen intervenir.
-  ### Causas
+### Causas
   Se desconocen las causas precisas, pero se identificaron alguno  patrones en los pacientes.
 
  -Géneticas:
  La presencia de CUERPOS DE LEWY. Las masas de sustancias específicas dentro de las neuronas son marcadores microscópicos de la enfermedad de Parkinson.
- ### Factores 
+### Factores 
  
   - SEXO : Mayor reincidencia  de la enfermedad en hombres que en mujeres. 
   - EDAD : Las personas suelen contraer la enfermedad aproximadamente a partir de los 60 años.
