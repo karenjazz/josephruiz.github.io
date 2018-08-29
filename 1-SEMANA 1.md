@@ -60,11 +60,11 @@ Muchos de los síntomas se deben a la pérdida de neuronas que producen un mensa
     - Y la incidencia es de 1.5 a 2 veces mayor en varones que en mujeres, lo que sugiere un efecto protector de los estrógenos.
   
 #### En el Perú
-  - Unos 300 mil peruanos padecen del mal de Parkinson 1%  (Instituto Nacional de Ciencias Neurológicas) (INCN).
-  - 10% de los casos registrados son por causas hereditarias y más del 90% generado por causas incidentales. (Clínica Anglo Americana-       Juan Altamirano).
-  - En Lima habrían más de 10 000 personas con Parkinson. 
+    - Unos 300 mil peruanos padecen del mal de Parkinson 1%  (Instituto Nacional de Ciencias Neurológicas) (INCN).
+    - 10% de los casos registrados son por causas hereditarias y más del 90% generado por causas incidentales. (Clínica Anglo Americana-       Juan Altamirano).
+    - En Lima habrían más de 10 000 personas con Parkinson. 
 #### En los jovenes
-  - El Parkinson juvenil es una forma de la enfermedad de Parkinson que surge en niños y jóvenes menores de 21 años (casos muy raros).
+ - El Parkinson juvenil es una forma de la enfermedad de Parkinson que surge en niños y jóvenes menores de 21 años (casos muy raros).
    
 ## Testimonios
   
