@@ -43,10 +43,10 @@ Muchos de los síntomas se deben a la pérdida de neuronas que producen un mensa
   
 ## TRATAMIENTOS 
 #### Formales
-    -Medicación : Los fármacos empleados con más frecuencia intentan reemplazar la dopamina o sus efectos y, de ese modo consiguen                          mejorar los síntomas de esta enfermedad.  
-    -Quirúrgicos : La estimulación cerebral profunda (ECP), la  cual administra estimulación eléctrica en zonas del cerebro, mo-
+    - Medicación : Los fármacos empleados con más frecuencia intentan reemplazar la dopamina o sus efectos y, de ese modo consiguen                          mejorar los síntomas de esta enfermedad.  
+    - Quirúrgicos : La estimulación cerebral profunda (ECP), la  cual administra estimulación eléctrica en zonas del cerebro, mo-
                    dulando las señales que causan los síntomas motores incapacitantes. 
-    -Ejercicios y Fisioterapia : Terapias rehabilitadoras dirigidas a aliviar los síntomas y mitigar las consecuencias derivadas de los                                   mismos. 
+    - Ejercicios y Fisioterapia : Terapias rehabilitadoras dirigidas a aliviar los síntomas y mitigar las consecuencias derivadas de los                                   mismos. 
 #### Informales
     - Medicina alternativa: Suplementos tomados difieren mucho y son a menudo sin guía médica. 
          . El Cannabis.
@@ -55,25 +55,25 @@ Muchos de los síntomas se deben a la pérdida de neuronas que producen un mensa
 ## Estadísticas y disidencia en el Perú  y en  mundo   
  
 #### En el mundo
-    -La prevalencia de esta enfermedad se estima en 0.3% de la población y siendo aproximadamente el 1% de mayores de 60 años.
-    -La incidencia estimada es de 8 a 18 por 100 000 habitantes/año.
-    -Y la incidencia es de 1.5 a 2 veces mayor en varones que en mujeres, lo que sugiere un efecto protector de los estrógenos.
+    - La prevalencia de esta enfermedad se estima en 0.3% de la población y siendo aproximadamente el 1% de mayores de 60 años.
+    - La incidencia estimada es de 8 a 18 por 100 000 habitantes/año.
+    - Y la incidencia es de 1.5 a 2 veces mayor en varones que en mujeres, lo que sugiere un efecto protector de los estrógenos.
   
 #### En el Perú
-  -Unos 300 mil peruanos padecen del mal de Parkinson 1%  (Instituto Nacional de Ciencias Neurológicas) (INCN).
-  -10% de los casos registrados son por causas hereditarias y más del 90% generado por causas incidentales. (Clínica Anglo Americana-       Juan Altamirano).
-  -En Lima habrían más de 10 000 personas con Parkinson. 
+  - Unos 300 mil peruanos padecen del mal de Parkinson 1%  (Instituto Nacional de Ciencias Neurológicas) (INCN).
+  - 10% de los casos registrados son por causas hereditarias y más del 90% generado por causas incidentales. (Clínica Anglo Americana-       Juan Altamirano).
+  - En Lima habrían más de 10 000 personas con Parkinson. 
 #### En los jovenes
-   - El Parkinson juvenil es una forma de la enfermedad de Parkinson que surge en niños y jóvenes menores de 21 años (casos muy raros).
+  - El Parkinson juvenil es una forma de la enfermedad de Parkinson que surge en niños y jóvenes menores de 21 años (casos muy raros).
    
 ## Testimonios
   
 ####  Andrés Ortega (Colombia)
-     -Todo empezó con un tirón en el cuello que poco a poco fue empeorando. Fue diagnosticado con una distonia cervical, que le impedía       realizar cualquier actividad diaria. Los medicamentos que le daban no servían para nada, hasta que llegó a una clínica de               movimientos anormales. Allá le hablaron del DBS y después de un tiempo lo operaron. A pesar de los nervios de la cirugía, Andrés         recuperó el control de su cuerpo y volvió a trabajar.
+    - Todo empezó con un tirón en el cuello que poco a poco fue empeorando. Fue diagnosticado con una distonia cervical, que le impedía       realizar cualquier actividad diaria. Los medicamentos que le daban no servían para nada, hasta que llegó a una clínica de               movimientos anormales. Allá le hablaron del DBS y después de un tiempo lo operaron. A pesar de los nervios de la cirugía, Andrés         recuperó el control de su cuerpo y volvió a trabajar.
 ####  Ismael Encías (México)
-     -Ismael es un empresario deportivo diagnosticado con Parkinson a los 36 años. Al principio le dijeron que era estrés, pero con la         evolución de la enfermedad fueron aumentando las medicinas. Le hablaron acerca del DBS, lo operaron y pudo volver a vivir. Tres         meses después de su cirugía se fue al mundial de fútbol en Brasil y se sentía como en una juguetería.
+    - Ismael es un empresario deportivo diagnosticado con Parkinson a los 36 años. Al principio le dijeron que era estrés, pero con la         evolución de la enfermedad fueron aumentando las medicinas. Le hablaron acerca del DBS, lo operaron y pudo volver a vivir. Tres         meses después de su cirugía se fue al mundial de fútbol en Brasil y se sentía como en una juguetería.
 #### Alberto Díaz (Colombia)
-     -Alberto Diaz es un artista que un día no pudo volver a dibujar, ni a esculpir ni a trabajar. El temblor esencial tenía gobernado         su cuerpo y la angustia lo invadió. No podía comer, no podía afeitarse y necesitaba ayuda para hacer cualquier cosa. Su depresión       llegó al punto de no querer seguir viviendo, hasta que un neurólogo le habló del DBS. Después de la operación pudo volver a             pintar, pudo volver a esculpir.
+     - Alberto Diaz es un artista que un día no pudo volver a dibujar, ni a esculpir ni a trabajar. El temblor esencial tenía gobernado        su cuerpo y la angustia lo invadió. No podía comer, no podía afeitarse y necesitaba ayuda para hacer cualquier cosa. Su depresión        llegó al punto de no querer seguir viviendo, hasta que un neurólogo le habló del DBS. Después de la operación pudo volver a              pintar, pudo volver a esculpir.
   
   
   
