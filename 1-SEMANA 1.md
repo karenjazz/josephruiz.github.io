@@ -42,14 +42,14 @@ Muchos de los síntomas se deben a la pérdida de neuronas que producen un mensa
  - Pensamiento y memoria : Lentitud en el pensamiento o cambios en su rozamiento, memoria o concetración.
   
 ## TRATAMIENTOS 
-### Formales
+## Formales
  - Medicación : Los fármacos empleados con más frecuencia intentan reemplazar la dopamina o sus efectos y, de ese modo consiguen                         mejorar los síntomas de esta enfermedad.  
  - Quirúrgicos : La estimulación cerebral profunda (ECP), la  cual administra estimulación eléctrica en zonas del cerebro, mo-
                    dulando las señales que causan los síntomas motores incapacitantes. 
  - Ejercicios y Fisioterapia : Terapias rehabilitadoras dirigidas a aliviar los síntomas y mitigar las consecuencias derivadas de los                                   mismos. 
     
     
-### Informales 
+## Informales 
    Medicina alternativa: Suplementos tomados difieren mucho y son a menudo sin guía médica. 
    - El Cannabis.
    - Vicia faba, o habichuela.
