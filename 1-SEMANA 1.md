@@ -70,11 +70,11 @@ Muchos de los síntomas se deben a la pérdida de neuronas que producen un mensa
    
 ## Testimonios
   
-### Andrés Ortega (Colombia)
+#### Andrés Ortega (Colombia)
     - Todo empezó con un tirón en el cuello que poco a poco fue empeorando. Fue diagnosticado con una distonia cervical, que le impedía       realizar cualquier actividad diaria. Los medicamentos que le daban no servían para nada, hasta que llegó a una clínica de               movimientos anormales. Allá le hablaron del DBS y después de un tiempo lo operaron. A pesar de los nervios de la cirugía, Andrés         recuperó el control de su cuerpo y volvió a trabajar.
-###  Ismael Encías (México)
+####  Ismael Encías (México)
     - Ismael es un empresario deportivo diagnosticado con Parkinson a los 36 años. Al principio le dijeron que era estrés, pero con la         evolución de la enfermedad fueron aumentando las medicinas. Le hablaron acerca del DBS, lo operaron y pudo volver a vivir. Tres         meses después de su cirugía se fue al mundial de fútbol en Brasil y se sentía como en una juguetería.
-### Alberto Díaz (Colombia)
+#### Alberto Díaz (Colombia)
      - Alberto Diaz es un artista que un día no pudo volver a dibujar, ni a esculpir ni a trabajar. El temblor esencial tenía gobernado        su cuerpo y la angustia lo invadió. No podía comer, no podía afeitarse y necesitaba ayuda para hacer cualquier cosa. Su depresión        llegó al punto de no querer seguir viviendo, hasta que un neurólogo le habló del DBS. Después de la operación pudo volver a              pintar, pudo volver a esculpir.
   
   
