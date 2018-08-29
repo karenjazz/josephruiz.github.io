@@ -54,7 +54,8 @@ Muchos de los síntomas se deben a la pérdida de neuronas que producen un mensa
    - El Cannabis.
    - Vicia faba, o habichuela.
          
-## Estadísticas y disidencia en el Perú  y en  mundo   
+## Estadísticas y disidencia en el Perú  y en  mundo  
+---------
  
 ## En el mundo
     - La prevalencia de esta enfermedad se estima en 0.3% de la población y siendo aproximadamente el 1% de mayores de 60 años.
@@ -69,6 +70,7 @@ Muchos de los síntomas se deben a la pérdida de neuronas que producen un mensa
     - El Parkinson juvenil es una forma de la enfermedad de Parkinson que surge en niños y jóvenes menores de 21 años (casos muy raros).
    
 ## Testimonios
+---------
   
 #### Andrés Ortega (Colombia)
     - Todo empezó con un tirón en el cuello que poco a poco fue empeorando. Fue diagnosticado con una distonia cervical, que le impedía       realizar cualquier actividad diaria. Los medicamentos que le daban no servían para nada, hasta que llegó a una clínica de               movimientos anormales. Allá le hablaron del DBS y después de un tiempo lo operaron. A pesar de los nervios de la cirugía, Andrés         recuperó el control de su cuerpo y volvió a trabajar.
