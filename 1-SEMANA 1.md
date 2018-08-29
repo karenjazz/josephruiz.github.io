@@ -88,7 +88,7 @@ Muchos de los síntomas se deben a la pérdida de neuronas que producen un mensa
 
     - Alberto Diaz es un artista que un día no pudo volver a dibujar, ni a esculpir ni a trabajar. El temblor esencial tenía gobernado         su cuerpo y la angustia lo invadió. No podía comer, no podía afeitarse y necesitaba ayuda para hacer cualquier cosa. Su depresión       llegó al punto de no querer seguir viviendo, hasta que un neurólogo le habló del DBS. Después de la operación pudo volver a             pintar, pudo volver a esculpir.
   
-  ---------
+  
   
  
  
