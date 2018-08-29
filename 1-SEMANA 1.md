@@ -84,9 +84,7 @@ Muchos de los síntomas se deben a la pérdida de neuronas que producen un mensa
 
    - Ismael es un empresario deportivo diagnosticado con Parkinson a los 36 años. Al principio le dijeron que era estrés, pero con la        evolución de la enfermedad fueron aumentando las medicinas. Le hablaron acerca del DBS, lo operaron y pudo volver a vivir. Tres          meses después de su cirugía se fue al mundial de fútbol en Brasil y se sentía como en una juguetería.
     
-### Alberto Díaz (Colombia)
 
-    - Alberto Diaz es un artista que un día no pudo volver a dibujar, ni a esculpir ni a trabajar. El temblor esencial tenía gobernado         su cuerpo y la angustia lo invadió. No podía comer, no podía afeitarse y necesitaba ayuda para hacer cualquier cosa. Su depresión       llegó al punto de no querer seguir viviendo, hasta que un neurólogo le habló del DBS. Después de la operación pudo volver a             pintar, pudo volver a esculpir.
   
   
   
