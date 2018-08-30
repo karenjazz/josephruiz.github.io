@@ -17,7 +17,7 @@ Es importante que las personas con la enfermedad de Parkinson satisfagan no solo
    - Aún está en estado de prueba por ende aún no sale al mercado.
    - Tampoco se a mostrado la aceptación del público.
    
-## [BASTON INTELIGENTE ](link)
+## [BASTON INTELIGENTE ](https://infotiti.com/2016/05/baston-inteligente-parkinson/)
 
 El bastón es capaz de detectar cuando se produce el congelamiento de la marcha en el enfermo de párkinson y emitir una vibración que ayuda a la persona a reiniciar el movimiento.
  Los enfermos que padecen esta alteración la describen como si sus pies quedaran pegados al suelo; el movimiento se detiene y las caídas son muy frecuentes. Se ha encontrado una disminución en la duración de los episodios de freezing.
@@ -28,7 +28,7 @@ El bastón es capaz de detectar cuando se produce el congelamiento de la marcha 
 ## Contras del dispositivo
    - Aun está en desarrollo así que no hay ninguna estimación de precios ni especificaciones del producto
 
-## [BUTOON HOOK](link)
+## [BUTOON HOOK](https://www.essentialaids.com/good-grips-button-hook.html)
 
 Teniendo en cuenta que el paciente con Parkinson tiene problemas en el día a día  se logró que estos puedan abrochonarse los botones mediante un dispositivo,ya que los enfermos de Parkinson pierden fuerza en el agarre les cuesta mucho vestirse, el abrochador permite usar la fuerza de toda la mano para poder abotonarse en caso de usar camisas o zapatos con botones.
 
