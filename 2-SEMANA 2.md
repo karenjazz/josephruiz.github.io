@@ -26,7 +26,7 @@ El bastón es capaz de detectar cuando se produce el congelamiento de la marcha 
    - El dispositivo es muy aclamado y promete ser una gran ayuda para los enfermos de Parkinson
    
 ## Contras del dispositivo
-   -Aun está en desarrollo así que no hay ninguna estimación de precios ni especificaciones del producto
+   - Aun está en desarrollo así que no hay ninguna estimación de precios ni especificaciones del producto
 
 ## [BUTOON HOOK](link)
 
@@ -43,29 +43,29 @@ Teniendo en cuenta que el paciente con Parkinson tiene problemas en el día a d�
 # Tecnología wearable o "vestible"
  
  
- ## [EMMA WATCH](https://www.microsoft.com/en-us/research/project/project-emma/) 
+## [EMMA WATCH](https://www.microsoft.com/en-us/research/project/project-emma/) 
  
  Este dispositivo inteligente, que funciona con la ayuda de sensores, mejora el pulso al escribir. 
  Emma Watch es un prototipo de smartwatch -o reloj inteligente- que mejora el pulso al escribir, haciendo legible el contenido.
  
- ## Pros  del dispositivo. 
+## Pros  del dispositivo. 
    - Contrarresta las vibraciones del parkinson haciendo que el paciente con parkinson logre escribir.
    
- ## Contras del dispositivo
+## Contras del dispositivo
    - Se centra en solo una actividad (escribir).
   
    
- ## [PATH FINDER](https://www.walkwithpath.com/path-finder-es) 
+## [PATH FINDER](https://www.walkwithpath.com/path-finder-es) 
  
 Path Finder proporciona señales visuales desde la parte delantera de los pies. Esto está creado para poder combatir el Congelamiento de la Marcha (CdM), que se observa en el Parkinson y otras enfermedades
  
- ## Pros  del dispositivo. 
+## Pros  del dispositivo. 
    - Ayuda al congelamiento de la marcha.
    
- ## Contras del dispositivo
+## Contras del dispositivo
    - costo muy elevado para la simplicidad del dispositivo
    
- ## [ONE RING](http://oneringforpd.com/) 
+## [ONE RING](http://oneringforpd.com/) 
  
  Procesamiento Inteligente de Señales
  Potente tecnología de aprendizaje automático
@@ -81,15 +81,15 @@ Path Finder proporciona señales visuales desde la parte delantera de los pies. 
   Dispositivo protésico diseñado para aumentar las funciones laríngeas y respiratorias de las personas con la enfermedad de Parkinson. Utilizando el dispositivo como un disparador externo, los pacientes experimentaron un aumento en los niveles de presión sonora (SPL), cambios en la frecuencia y en general aumentos en la inteligibilidad del habla. 
   
 ## Pros del dispositivo
-  -Soluciona el problema del bajo sonido que emiten las personas al hablar.
-  -La empresa ofrece capacitaciones para las personas que quieren ofrecer el producto, ya que se necesita preparación al paciente para usar el producto.
-  -La empresa también dispone de facilidades de pago así cualquiera está en la capacidad de obtenerlo.
+  - Soluciona el problema del bajo sonido que emiten las personas al hablar.
+  - La empresa ofrece capacitaciones para las personas que quieren ofrecer el producto, ya que se necesita preparación al paciente para usar el producto.
+  - La empresa también dispone de facilidades de pago así cualquiera está en la capacidad de obtenerlo.
   
 ## Contras del dispositivo
-  -No es muy distinto a un aparto de sordera.
-  -A pesar de las facilidades el precio es demasiado alto.
-  -A pesar de que al usarlo el paciente ya no debería ir a una clínica del habla, este aún debe tomar el tratamiento para saber usarla.
-  -Aunque los gráficos muestran buenos resultados el número de sujetos aun es reducido como para sacar conclusiones.
+  - No es muy distinto a un aparto de sordera.
+  - A pesar de las facilidades el precio es demasiado alto.
+  - A pesar de que al usarlo el paciente ya no debería ir a una clínica del habla, este aún debe tomar el tratamiento para saber usarla.
+  - Aunque los gráficos muestran buenos resultados el número de sujetos aun es reducido como para sacar conclusiones.
 
 
    
