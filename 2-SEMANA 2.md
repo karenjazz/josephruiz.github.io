@@ -70,7 +70,7 @@ Path Finder proporciona señales visuales desde la parte delantera de los pies. 
   #  Tipos de Requerimiento
 
 ## REQUERIMIENTOS DE NEGOCIO
-    Definen los objetivos y problemas que queremos resolver con el producto. Deben estar basados en una necesidad real del usuario, sea     esta conocida o no por él. En nuestro caso queremos resolver el problema de temblores en la mano debido al parkinson.
+   Definen los objetivos y problemas que queremos resolver con el producto. Deben estar basados en una necesidad real del usuario, sea      esta conocida o no por él. En nuestro caso queremos resolver el problema de temblores en la mano debido al parkinson.
 
 ## REQUERIMIENTOS DE LOS USUARIOS
    Describen las expectaciones de los usuarios y como éste interactuará con el producto. Sino son similares a los requerimientos de        negocio, el proyecto irá mal encaminado. Según los comentarios de pacientes con parkinson, estos tienen problemas al llevar la comida    a la boca,al escribir, al peinarse, al lavarse los dientes, al hacer actividades comunes que se realizan dia a dia pero estos            pacientes son incapaces de realizar debido al parkinson. Por esto encaminamos el diseño en crear un dispositivo que ayude a reducir      estos temblores.
@@ -81,8 +81,8 @@ Proporcionan detalle de como debe comportarse un producto y especifican lo que s
 ## REQUERIMIENTOS DE CALIDAD
    Detallan las características que un producto debe poseer para mantener su efectividad y prever posibles problemas y limitaciones. El    material de nuestro producto debe ser resistente para que nuestro paciente no tenga necesidad de gastar en comprar uno nuevo pronto.    El producto debe ser práctico y cómodo para el paciente, si es un dispositivo wereable necesitará usarlo la mayor parte del día.        Evitar lo llamativo, si el dispositivo es muy grande o notorio el paciente se sentirá avergonzado debido a las miradas ajenas.
 
-REQUERIMIENTOS DE IMPLEMENTACIÓN
-Se usan para detallar cambios en los procesos, roles en el equipo, migraciones de un sistema a otro… La trazabilidad es muy importante en el desarrollo del producto, debemos hacer un seguimiento del progreso de este para observar como fue evolucionando.
+## REQUERIMIENTOS DE IMPLEMENTACIÓN
+   Se usan para detallar cambios en los procesos, roles en el equipo, migraciones de un sistema a otro… La trazabilidad es muy              importante en el desarrollo del producto, debemos hacer un seguimiento del progreso de este para observar como fue evolucionando.
   
   
 
