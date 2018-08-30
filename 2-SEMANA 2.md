@@ -12,6 +12,7 @@ Es importante que las personas con la enfermedad de Parkinson satisfagan no solo
  ## Pros  del dispositivo.
    - El cargador es por inducción (se puede cargar con cualquier cargador).
    - Mejora la escritura en un 86% más grande y es más suave el trazo.
+   
  ## Contras del dispositivo
    - Aún está en estado de prueba por ende aún no sale al mercado.
    - Tampoco se a mostrado la aceptación del público.
@@ -21,9 +22,10 @@ Es importante que las personas con la enfermedad de Parkinson satisfagan no solo
 El bastón es capaz de detectar cuando se produce el congelamiento de la marcha en el enfermo de párkinson y emitir una vibración que ayuda a la persona a reiniciar el movimiento.
  Los enfermos que padecen esta alteración la describen como si sus pies quedaran pegados al suelo; el movimiento se detiene y las caídas son muy frecuentes. Se ha encontrado una disminución en la duración de los episodios de freezing.
  
- ## Pros  del dispositivo.
+## Pros  del dispositivo.
    - El dispositivo es muy aclamado y promete ser una gran ayuda para los enfermos de Parkinson
- ## Contras del dispositivo
+   
+## Contras del dispositivo
    -Aun está en desarrollo así que no hay ninguna estimación de precios ni especificaciones del producto
 
 ## [BUTOON HOOK](link)
@@ -31,9 +33,10 @@ El bastón es capaz de detectar cuando se produce el congelamiento de la marcha 
 Teniendo en cuenta que el paciente con Parkinson tiene problemas en el día a día  se logró que estos puedan abrochonarse los botones mediante un dispositivo,ya que los enfermos de Parkinson pierden fuerza en el agarre les cuesta mucho vestirse, el abrochador permite usar la fuerza de toda la mano para poder abotonarse en caso de usar camisas o zapatos con botones.
 
 
- ## Pros  del dispositivo. 
+## Pros  del dispositivo. 
    - Aunque el precio varía dependiendo de la marca, el promedio de estos productos es más que accesible al público en general.
- ## Contras del dispositivo
+   
+## Contras del dispositivo
    - La simplicidad del producto solo permite la solución a una actividad en específico. 
    
    
@@ -47,30 +50,33 @@ Teniendo en cuenta que el paciente con Parkinson tiene problemas en el día a d�
  
  ## Pros  del dispositivo. 
    - Contrarresta las vibraciones del parkinson haciendo que el paciente con parkinson logre escribir.
+   
  ## Contras del dispositivo
    - Se centra en solo una actividad (escribir).
   
    
-   ## [PATH FINDER](https://www.walkwithpath.com/path-finder-es) 
+ ## [PATH FINDER](https://www.walkwithpath.com/path-finder-es) 
  
 Path Finder proporciona señales visuales desde la parte delantera de los pies. Esto está creado para poder combatir el Congelamiento de la Marcha (CdM), que se observa en el Parkinson y otras enfermedades
  
  ## Pros  del dispositivo. 
    - Ayuda al congelamiento de la marcha.
+   
  ## Contras del dispositivo
    - costo muy elevado para la simplicidad del dispositivo
    
-   ## [ONE RING](http://oneringforpd.com/) 
+ ## [ONE RING](http://oneringforpd.com/) 
  
  Procesamiento Inteligente de Señales
  Potente tecnología de aprendizaje automático
  
- ## Pros  del dispositivo. 
+## Pros  del dispositivo. 
   - Ayuda a conocer mejor la evolucion de la enfermedad del parkinson.
- ## Contras del dispositivo
+  
+## Contras del dispositivo
   - No tiene beneficios inmediatos para el paciente que lo usa.
    
-  ## [SPEECH VIVE](http://www.speechvive.com/)
+## [SPEECH VIVE](http://www.speechvive.com/)
   
   Dispositivo protésico diseñado para aumentar las funciones laríngeas y respiratorias de las personas con la enfermedad de Parkinson. Utilizando el dispositivo como un disparador externo, los pacientes experimentaron un aumento en los niveles de presión sonora (SPL), cambios en la frecuencia y en general aumentos en la inteligibilidad del habla. 
   
