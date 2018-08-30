@@ -23,8 +23,47 @@ El bastón es capaz de detectar cuando se produce el congelamiento de la marcha 
  ## Contras del dispositivo
    -Aun está en desarrollo así que no hay ninguna estimación de precios ni especificaciones del producto
 
+## [BUTOON HOOK](link)
+
+Teniendo en cuenta que el paciente con Parkinson tiene problemas en el día a día  se logró que estos puedan abrochonarse los botones mediante un dispositivo,ya que los enfermos de Parkinson pierden fuerza en el agarre les cuesta mucho vestirse, el abrochador permite usar la fuerza de toda la mano para poder abotonarse en caso de usar camisas o zapatos con botones.
 
 
+ ## Pros  del dispositivo. 
+   - Aunque el precio varía dependiendo de la marca, el promedio de estos productos es más que accesible al público en general.
+ ## Contras del dispositivo
+   - La simplicidad del producto solo permite la solución a una actividad en específico. 
+   
+ ## [EMMA WATCH](link) 
+ 
+ Este dispositivo inteligente, que funciona con la ayuda de sensores, mejora el pulso al escribir. 
+ Emma Watch es un prototipo de smartwatch -o reloj inteligente- que, con la ayuda de los sensores que integra, mejora el pulso al         escribir, haciendo legible el contenido.
+ 
+  ## Pros  del dispositivo. 
+   - falta info
+ ## Contras del dispositivo
+   - falta info
+   
+   
+   ## [PATH FINDER](https://www.walkwithpath.com/path-finder-es) 
+ 
+Path Finder proporciona señales visuales desde la parte delantera de los pies. Esto está creado para poder combatir el Congelamiento de la Marcha (CdM), que se observa en el Parkinson y otras enfermedades
+ 
+  ## Pros  del dispositivo. 
+   - falta info
+ ## Contras del dispositivo
+   - falta info
+   
+   ## [ONE RING](http://oneringforpd.com/) 
+ 
+ Procesamiento Inteligente de Señales
+ Potente tecnología de aprendizaje automático
+ 
+  ## Pros  del dispositivo. 
+   - falta info
+ ## Contras del dispositivo
+   - falta info
+
+   
 
 
  
