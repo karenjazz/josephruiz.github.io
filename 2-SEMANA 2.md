@@ -33,7 +33,7 @@ Teniendo en cuenta que el paciente con Parkinson tiene problemas en el día a d�
  ## Contras del dispositivo
    - La simplicidad del producto solo permite la solución a una actividad en específico. 
    
- ## [EMMA WATCH](link) 
+## [EMMA WATCH](link) 
  
  Este dispositivo inteligente, que funciona con la ayuda de sensores, mejora el pulso al escribir. 
  Emma Watch es un prototipo de smartwatch -o reloj inteligente- que, con la ayuda de los sensores que integra, mejora el pulso al         escribir, haciendo legible el contenido.
@@ -44,7 +44,7 @@ Teniendo en cuenta que el paciente con Parkinson tiene problemas en el día a d�
    - falta info
    
    
-   ## [PATH FINDER](https://www.walkwithpath.com/path-finder-es) 
+## [PATH FINDER](https://www.walkwithpath.com/path-finder-es) 
  
 Path Finder proporciona señales visuales desde la parte delantera de los pies. Esto está creado para poder combatir el Congelamiento de la Marcha (CdM), que se observa en el Parkinson y otras enfermedades
  
