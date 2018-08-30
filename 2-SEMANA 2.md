@@ -40,7 +40,7 @@ Teniendo en cuenta que el paciente con Parkinson tiene problemas en el día a d�
    - La simplicidad del producto solo permite la solución a una actividad en específico. 
    
    
- # Tecnología wearable o "vestible"
+# Tecnología wearable o "vestible"
  
  
  ## [EMMA WATCH](https://www.microsoft.com/en-us/research/project/project-emma/) 
@@ -80,11 +80,12 @@ Path Finder proporciona señales visuales desde la parte delantera de los pies. 
   
   Dispositivo protésico diseñado para aumentar las funciones laríngeas y respiratorias de las personas con la enfermedad de Parkinson. Utilizando el dispositivo como un disparador externo, los pacientes experimentaron un aumento en los niveles de presión sonora (SPL), cambios en la frecuencia y en general aumentos en la inteligibilidad del habla. 
   
-  ## Pros del dispositivo
+## Pros del dispositivo
   -Soluciona el problema del bajo sonido que emiten las personas al hablar.
   -La empresa ofrece capacitaciones para las personas que quieren ofrecer el producto, ya que se necesita preparación al paciente para usar el producto.
   -La empresa también dispone de facilidades de pago así cualquiera está en la capacidad de obtenerlo.
-  ## Contras del dispositivo
+  
+## Contras del dispositivo
   -No es muy distinto a un aparto de sordera.
   -A pesar de las facilidades el precio es demasiado alto.
   -A pesar de que al usarlo el paciente ya no debería ir a una clínica del habla, este aún debe tomar el tratamiento para saber usarla.
@@ -93,9 +94,9 @@ Path Finder proporciona señales visuales desde la parte delantera de los pies. 
 
    
    
-  # Requerimientos de nuestro  proyecto
+# Requerimientos de nuestro  proyecto
   
-  #  Tipos de Requerimiento
+#  Tipos de Requerimiento
 
 ## REQUERIMIENTOS DE NEGOCIO
    Definen los objetivos y problemas que queremos resolver con el producto. Deben estar basados en una necesidad real del usuario, sea      esta conocida o no por él. En nuestro caso queremos resolver el problema de temblores en la mano debido al parkinson.
