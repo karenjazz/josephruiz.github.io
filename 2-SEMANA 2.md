@@ -66,23 +66,23 @@ Path Finder proporciona señales visuales desde la parte delantera de los pies. 
  Potente tecnología de aprendizaje automático
  
  ## Pros  del dispositivo. 
-    - Ayuda a conocer mejor la evolucion de la enfermedad del parkinson.
+  - Ayuda a conocer mejor la evolucion de la enfermedad del parkinson.
  ## Contras del dispositivo
-    - No tiene beneficios inmediatos para el paciente que lo usa.
+  - No tiene beneficios inmediatos para el paciente que lo usa.
    
-  ## [speech vive](http://www.speechvive.com/)
+  ## [SPEECH VIVE](http://www.speechvive.com/)
   
   Dispositivo protésico diseñado para aumentar las funciones laríngeas y respiratorias de las personas con la enfermedad de Parkinson. Utilizando el dispositivo como un disparador externo, los pacientes experimentaron un aumento en los niveles de presión sonora (SPL), cambios en la frecuencia y en general aumentos en la inteligibilidad del habla. 
   
   ## Pros del dispositivo
-    -Soluciona el problema del bajo sonido que emiten las personas al hablar.
-    -La empresa ofrece capacitaciones para las personas que quieren ofrecer el producto, ya que se necesita preparación al paciente para usar el producto.
-    -La empresa también dispone de facilidades de pago así cualquiera está en la capacidad de obtenerlo.
+  -Soluciona el problema del bajo sonido que emiten las personas al hablar.
+  -La empresa ofrece capacitaciones para las personas que quieren ofrecer el producto, ya que se necesita preparación al paciente para usar el producto.
+  -La empresa también dispone de facilidades de pago así cualquiera está en la capacidad de obtenerlo.
   ## Contras del dispositivo
-    -No es muy distinto a un aparto de sordera.
-    -A pesar de las facilidades el precio es demasiado alto.
-    -A pesar de que al usarlo el paciente ya no debería ir a una clínica del habla, este aún debe tomar el tratamiento para saber usarla.
-    -Aunque los gráficos muestran buenos resultados el número de sujetos aun es reducido como para sacar conclusiones.
+  -No es muy distinto a un aparto de sordera.
+  -A pesar de las facilidades el precio es demasiado alto.
+  -A pesar de que al usarlo el paciente ya no debería ir a una clínica del habla, este aún debe tomar el tratamiento para saber usarla.
+  -Aunque los gráficos muestran buenos resultados el número de sujetos aun es reducido como para sacar conclusiones.
 
 
    
